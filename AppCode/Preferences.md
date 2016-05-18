@@ -2,7 +2,7 @@
 >Personalize IDE appearance and behavior:change theme and font size,tune the keymap,configure plugins and system setting,such as password policies,HTTP proxy,update and more
 个性化IDE:外观和行为改变主题,字体大小,调整keymap,配置插件和系统设置,如密码策略,HTTP代理,更新和更多
 
-1.[Appearance(外观)](../Appearance&Behavior/Appearance.md)
+1.[Appearance(外观)](/Appearance&Behavior/Appearance.md)
 
 2.Menus and Toolbars(菜单和工具栏)
 
