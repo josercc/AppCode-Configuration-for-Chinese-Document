@@ -3,4 +3,4 @@
 
 ## [Preferences(首选项)](/AppCode/Preferences.md)
 
-## [AppCode中文文档](/Doc/index.md)
+## [AppCode中文文档](/Docs/index.md)
