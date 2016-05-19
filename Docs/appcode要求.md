@@ -1,19 +1,22 @@
-硬件要求
 
-2 GB的RAM
+# Appcode安装要求
 
-系统要求
+- [硬件要求](#jump1)
+- [系统要求](#jump2)
+- [安装](#jump3)
+<span id="jump1"></span>
+## 硬件要求
+- 2GB内存以上
+<span id="jump2"></span>
+## 系统要求
+- OS X 10.10或者之后
+- Xcode 7.2或者之后
+<span id="jump2"></span>
+## 安装
+1.从[AppCode官网](https://www.jetbrains.com/objc/download/)下载`AppCode-*.dmg` OSX安装的源文件
+</br>
+2.双击下载`AppCode-*.dmg` OSX安装的源文件
+</br>
+3.拷贝**Appcode**到`应用程序`
 
-系统要求安装
-
-OS X 10.10或更高
-
-Xcode 7.2或更高。
-
-下载appcode * .dmg OS X的磁盘映像文件从appcode官方网站。
-
-双击下载的appcode * .dmg OS X的磁盘映像文件来安装它。
-
-appcode复制到您的应用程序文件夹。
-
-注：Oracle JDK 1.8定制由JetBrains的团队是捆绑在appcode的分布。
+>Appcode只支持JDK1.8版本
