@@ -2,6 +2,7 @@
 
 1.Theme(主题)
 
+<<<<<<< HEAD
 1.1 Default(默认的)
 
 ![Default](../images/QQ20160518-0.png)
@@ -107,3 +108,8 @@
 
 1.Font size
 >字体大小
+=======
+1.Default(默认的)
+
+![Default](../images/QQ20160518-0.png)
+>>>>>>> origin/master
